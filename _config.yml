@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Gregori Jesus Hurtado Bones
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Proyecto de Introducción a la Ingeniería de Software
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/p720x720/79232152_1474023816086862_8122874791393755136_o.jpg?_nc_cat=103&_nc_ohc=R75kl0SC6z4AQlOck0fn8ck986xzYrXDvU4YWBHHTiuvVrGqXxRyCjVGQ&_nc_ht=scontent.fgye6-1.fna&oh=5ee0cd59d175284bb9f795bf49875765&oe=5E7365FC
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: gregori.hurtadob@ug.edu.ec
+  facebook: https://www.facebook.com/profile.php?id=100004377738627&lst=100005991750692%3A100004377738627%3A1576513866&sk=timeline
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
